@@ -1,3 +1,19 @@
+**🕹️ About the Game:**
+This addictive game offers three challenging modes: easy, medium, and hard. You'll have three chances to find the word, but don't worry if you miss out - you can reshuffle the board and try again! Plus, keep an eye out for the game result component and toast notifications to stay updated on your progress.
+
+**🛠️ Why Aura Component?**
+I chose to build this game using Aura Component because many old applications and big firms are still utilizing this technology. I wanted to dive into Aura and showcase my skills while catering to a wide audience. However, stay tuned because my next target is to develop a version of this game using Lightning Web Components (LWC)!
+
+**🛠️ How to Use the Component:**
+1. Download the code from my GitHub repository.
+2. Push it to your Salesforce org.
+3. Choose any Salesforce app.
+4. Click on "Edit Page."
+5. Select "Add Custom Component."
+6. Add both the board panel and result component.
+7. Click "Save" and then refresh the page.
+8. Get ready to enjoy the game!
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
